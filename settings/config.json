@@ -1,0 +1,10 @@
+{
+  "verbose": true
+  "inbound_queue_size": 30,
+  "request_throttle": 1000,
+
+  "xml": {
+    "trim": "true",
+    "explicitArray": "true"
+  }
+}
