@@ -4,7 +4,13 @@
   "request_throttle": 1000,
 
   "xml": {
-    "trim": "true",
-    "explicitArray": "true"
+    "explicitRoot": false,
+    "explicitCharkey": false,
+    "normalize": true,
+    "emptyTag": true,
+    "explicitArray": true,
+    "xmlns": false,
+    "trim": true,
+    "explicitArray": true
   }
 }
